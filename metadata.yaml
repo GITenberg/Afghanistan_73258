@@ -1,0 +1,39 @@
+_repo: Afghanistan_73258
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, A. (Angus)
+    aliases:
+    - Hamilton, Angus
+    - Hamilton, John Lushington Moore Angus
+    - Hamilton, J. Angus
+    birthdate: 1874
+    deathdate: 1913
+    gutenberg_agent_id: '39981'
+    url: http://www.gutenberg.org/2009/agents/39981
+description: ''
+gutenberg_issued: '2024-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73258'
+  lccn: 06041815
+language: en
+pgterms:marc904: https://archive.org/details/in.gov.ignca.14375
+pgterms:marc905: 20220911092643hamilton
+pgterms:marc906: '1906'
+pgterms:marc907: gb
+production_note: Carol Brown, Peter Becker and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bWilliam Heinemann, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eastern question (Central Asia)'
+- !lcsh 'Asia, Central -- Description and travel'
+- !lcsh 'Afghanistan'
+- !lcc 'DS'
+- GITenberg
+title: Afghanistan
+url: http://www.gutenberg.org/ebooks/73258
